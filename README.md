@@ -15,6 +15,8 @@ I am a student, I started to fall in love with technology, This love has helped 
 - **Backend Development**
 - <div>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
 </div>
 
 - **Other Skills**
@@ -23,25 +25,42 @@ I am a student, I started to fall in love with technology, This love has helped 
 </div>
 
 ## What I want to do next :thinking:
-- Backend Development (to become a Full-Stack developer)
+- ~~Backend Development (to become a Full-Stack developer)~~
 - At least delve into **AI** and **ML**.
 - Unlock the secret to the universe :rofl:
-## My Contacts :mailbox:
-<div> 
-  <a href="https://instagram.com/alinasserofficiall" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      <a href="https://twitter.com/alinasserali_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230090B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-    <a href="https://www.linkedin.com/in/ali-nasser-0080b923b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:alinasserhassanein@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+
+<!--
+<div align="center">
+  <a href="https://github.com/alinasserhassanein/TemplateOne" target="_blank">  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=alinasserhassanein&repo=TemplateOne&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&hide_border=1&border_radius=5"/></a>
+  <a href="https://github.com/alinasserhassanein/TemplateTwo" target="_blank">  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=alinasserhassanein&repo=TemplateTwo&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&hide_border=1&border_radius=5"/></a>
+  <a href="https://github.com/alinasserhassanein/Superman" target="_blank">  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=alinasserhassanein&repo=Superman&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&hide_border=1&border_radius=5"/></a>
+  <a href="https://github.com/alinasserhassanein/alinasserhassanein" target="_blank">  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=alinasserhassanein&repo=alinasserhassanein&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&hide_border=1&border_radius=5"/></a>
+</div> 
+-->
+
+## Activities 🗺️
+<div align="center">
+  <img width="44.5%" src="https://github-readme-stats.vercel.app/api?username=alinasserhassanein&show_icons=true&bg_color=30,08203e,557c93&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&hide_border=true&border_radius=5"/>
+  <img width="53.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinasserhassanein&layout=compact&langs_count=7&bg_color=30,557c93,08203e&title_color=fff&text_color=fff&hide_border=true&border_radius=5"/>
 </div>
+
+<br><br>
+
+## <p align="center">Social Media :mailbox:</p>
+
 <br>
-<!-- <div align="center">
-      <a href="https://github.com/alinasserhassanein/TemplateOne" target="_blank">  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=alinasserhassanein&repo=TemplateOne&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&hide_border=1&border_radius=5"/></a>
-      <a href="https://github.com/alinasserhassanein/TemplateTwo" target="_blank">  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=alinasserhassanein&repo=TemplateTwo&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&hide_border=1&border_radius=5"/></a>
-        <a href="https://github.com/alinasserhassanein/Superman" target="_blank">  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=alinasserhassanein&repo=Superman&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&hide_border=1&border_radius=5"/></a>
-        <a href="https://github.com/alinasserhassanein/alinasserhassanein" target="_blank">  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=alinasserhassanein&repo=alinasserhassanein&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&hide_border=1&border_radius=5"/></a>
-</div> -->
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alinasserhassanein&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&hide_border=1&border_radius=5"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinasserhassanein&layout=compact&langs_count=7&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&hide_border=1&border_radius=5"/>
+  <a href="https://instagram.com/alinasserhassanein">
+   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://twitter.com/alinasserali_">
+   <img src="https://img.shields.io/badge/-Twitter-%230090B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://www.linkedin.com/in/ali-nasser-0080b923b/">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href = "mailto:alinasserhassanein@gmail.com">
+   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a> 
 </div>
